@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11266268202",
+    "project_id": "ecomsignuplogin",
+    "storage_bucket": "ecomsignuplogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11266268202:android:f3d974b08280d3a3323753",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAz5o-TRjR6DSt7j5XpbhVDI6enIQanM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
