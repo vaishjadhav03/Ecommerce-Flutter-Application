@@ -1,16 +1,19 @@
 # ecommerce_app
 
-A new Flutter project.
+This is a simple E-Commerce mobile application built using Flutter and GetX for state management.
+The backend is powered by PHP & MySQL, allowing user authentication, product listing, cart management, and order placement.
 
-## Getting Started
+Features
+1.User Authentication (Signup & Login using PHP & MySQL)
+2.Product Listing (Fetched from MySQL database using API)
+3.Shopping Cart (Add, update, and remove products)
+4.Checkout with Address (Fetches user’s location on checkout)
+5.Order Management (Stores orders in the database)
+6.PDF Invoice Generation for orders
 
-This project is a starting point for a Flutter application.
+Tech Stack
+-Frontend: Flutter (Dart) with GetX for state management
+-Backend: PHP (REST API)
+-Database: MySQL
+-Local Storage: SharedPreferences (for session management)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
